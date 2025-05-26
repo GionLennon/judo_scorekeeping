@@ -5,7 +5,7 @@ A lightweight web-based scoreboard and admin system for managing judo matches ac
 ## Project Structure
 
 ```
-/config.php                 # database config
+/config.php                # database config
 /score_input.php           # scorekeeper interface
 /score_display.php         # live scoreboard display
 /admin.php                 # admin panel

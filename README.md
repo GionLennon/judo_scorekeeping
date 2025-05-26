@@ -65,11 +65,11 @@ $pdo = new PDO("mysql:host=localhost;dbname=YOUR_DB", "YOUR_USER", "YOUR_PASS", 
 * Matches end automatically when scoring conditions are met
 * To reset a match, use the "Match Zurücksetzen" button
 
-## Timer Controls (NEW)
-* Start Timer — begins the match countdown (default 4 minutes)
-* Pause Timer — freezes the timer
-* Resume Timer — continue after pause
-* Reset Timer — clears and restarts the countdown
+  #### Timer Controls (NEW)
+  * Start Timer — begins the match countdown (default 4 minutes)
+  * Pause Timer — freezes the timer
+  * Resume Timer — continue after pause
+  * Reset Timer — clears and restarts the countdown
 
 ### Display Operator
 

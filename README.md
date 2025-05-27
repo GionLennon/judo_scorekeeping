@@ -90,6 +90,6 @@ $pdo = new PDO("mysql:host=localhost;dbname=YOUR_DB", "YOUR_USER", "YOUR_PASS", 
 
 ## To Do / Ideas
 
-* Add timer and golden score support
+* ~~Add timer and~~ golden score support
 * CSV or PDF export of results
 * Match history per tatami
